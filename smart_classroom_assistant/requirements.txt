@@ -1,0 +1,7 @@
+boto3
+cmake
+dlib
+numpy
+face_recognition
+opencv-python
+ffmpeg
